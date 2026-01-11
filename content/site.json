@@ -1,0 +1,23 @@
+{
+  "businessName": "Business approval-e2e-1768123480",
+  "industry": "business-approval-e2e-1768123480",
+  "tagline": "Professional business-approval-e2e-1768123480 services you can trust",
+  "phone": "",
+  "email": "",
+  "address": "",
+  "services": [
+    "Consultation Services",
+    "Implementation Support",
+    "Compliance & Review",
+    "Training & Development"
+  ],
+  "socialMedia": {
+    "linkedin": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "theme": {
+    "primaryColor": "#1e3a8a",
+    "accentColor": "#d4af37"
+  }
+}
